@@ -6,56 +6,56 @@
     <name>KBubbleLocalTip</name>
     <message>
         <source>Some features will not work properly. &lt;br/&gt;Please renew now.</source>
-        <translation type="finished">Alcune funzioni non funzioneranno adeguatamente. &lt;br/&gt;Rinnovare ora.</translation>
+        <translation type="finished">Alcune funzioni non funzioneranno adeguatamente. &lt;br/&gt;Rinnova adesso.</translation>
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rinnova adesso &gt;&gt;</translation>
     </message>
     <message>
         <source>Your subscription has expired</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L'abbonamento è scaduto</translation>
     </message>
 </context>
 <context>
     <name>KBubbleTipManager</name>
     <message>
         <source>You try %1 days, and %2 days left. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">In prova da %1 giorni, ne rimangono ancora %2. &lt;br/&gt;Scaduto il periodo di prova, non sarà più possibile il normale uso del software. &lt;br/&gt; Per evitare questo inconveniente acquista WPS Office.</translation>
     </message>
     <message>
         <source>The probation period is about to expire</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Il periodo di prova sta per scadere</translation>
     </message>
     <message>
         <source>Buy Now &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Compra adesso &gt;&gt;</translation>
     </message>
     <message>
         <source>You hava Authorized %1 days remaining. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sei autorizzato a utilizzare il software per altri %1 giorni. &lt;br/&gt;Scaduto il periodo di prova, non sarà più possibile il normale uso del prodotto. &lt;br/&gt; Per evitare questo inconveniente acquista WPS Office.</translation>
     </message>
     <message>
         <source>The Authorize period is about to expire</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Il periodo di validità per l'uso del prodotto sta per scadere</translation>
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rinnova adesso &gt;&gt;</translation>
     </message>
 </context>
 <context>
     <name>KCnCommonAuthManager</name>
     <message>
         <source>WPS Business</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Business</translation>
     </message>
 </context>
 <context>
     <name>KRegisterDlg</name>
     <message>
         <source>The items with &quot;*&quot; must be entered.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gli elementi contrassegnati con &quot;*&quot; sono obbligatori.</translation>
     </message>
     <message>
         <source>Documents&apos; Author</source>
